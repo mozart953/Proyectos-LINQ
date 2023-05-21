@@ -1,0 +1,15 @@
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.deps.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.runtimeconfig.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.runtimeconfig.dev.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\ref\proyecto10.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\bin\Debug\net5.0\proyecto10.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.AssemblyInfoInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.AssemblyInfo.cs
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\ref\proyecto10.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\proyecto10\obj\Debug\net5.0\proyecto10.genruntimeconfig.cache
