@@ -1,0 +1,16 @@
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.deps.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.runtimeconfig.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.runtimeconfig.dev.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\ref\Proyecto12.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\bin\Debug\net5.0\Proyecto12.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.csproj.AssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.AssemblyInfoInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.AssemblyInfo.cs
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\ref\Proyecto12.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto12\obj\Debug\net5.0\Proyecto12.genruntimeconfig.cache
