@@ -1,0 +1,16 @@
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.deps.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.runtimeconfig.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.runtimeconfig.dev.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\ref\Proyecto11.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\bin\Debug\net5.0\Proyecto11.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.csproj.AssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.AssemblyInfoInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.AssemblyInfo.cs
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\ref\Proyecto11.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto11\obj\Debug\net5.0\Proyecto11.genruntimeconfig.cache

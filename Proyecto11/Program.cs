@@ -10,7 +10,7 @@ namespace Proyecto11
         {
             string[] postres = { "pay de manzana", "pastel de chocolate", "manzana caramelizada", "fresas con crema", "pay de manzana y pera" };
 
-            bool mayusculas = false;
+            bool mayusculas =true;
 
             IEnumerable<string> resultados;
 
@@ -33,6 +33,52 @@ namespace Proyecto11
             Console.WriteLine("-----------------");
 
 
+            IEnumerable<string> encontrados = from p in postres
+                                              where p.Contains("manzana")
+                                              orderby p
+                                              select p
+                                              into pays
+                                              where pays.Contains("pay")
+                                              select pays;
+            foreach (string postre in encontrados)
+                Console.WriteLine(postre);
+
+            Console.WriteLine("--------------------");
+
+            //Envolver queries
+
+            IEnumerable<string> mipay = from p in
+                                            (
+                                                from p1 in postres
+                                                where p1.Contains("manzana")
+                                                orderby p1
+                                                select p1
+                                            )
+                                        where p.Contains("pay")
+                                        select p;
+
+            foreach (string postre in mipay)
+                Console.WriteLine(postre);
+
+            Console.WriteLine("-----------------------");
+
+            //let nos permite colocar una nueva variable junto con la de rango
+
+            IEnumerable<string> mispays = from p in postres
+                                          let manzanitas = (
+                                             from p1 in postres
+                                             where p1.Contains("manzana")
+                                             orderby p1
+                                             select p1
+                                             )
+                                          where manzanitas.Contains("pay")
+                                          select p;
+
+
+            foreach(string postre in mispays)
+            {
+                Console.WriteLine(postre);
+            }
 
         }
     }
