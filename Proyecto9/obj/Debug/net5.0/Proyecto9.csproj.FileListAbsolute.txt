@@ -1,0 +1,16 @@
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.deps.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.runtimeconfig.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.runtimeconfig.dev.json
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\ref\Proyecto9.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\bin\Debug\net5.0\Proyecto9.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.csproj.AssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.AssemblyInfoInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.AssemblyInfo.cs
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\ref\Proyecto9.dll
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\Proyectos LINQ\Proyecto9\obj\Debug\net5.0\Proyecto9.genruntimeconfig.cache
