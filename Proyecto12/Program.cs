@@ -147,6 +147,55 @@ namespace Proyecto12
                 Console.WriteLine(n);
 
 
+            Console.WriteLine("-------------------");
+            Console.WriteLine("---------GroupJoin----------");
+
+            var listado2 = from e in estudiantes
+                           join c in cursos on e.Id equals c.Id
+                           into tempListado
+                           select new { estudiante = e.Nombre, tempListado };
+
+            foreach(var lst in listado2)
+            {
+                Console.WriteLine(lst.estudiante);
+
+                foreach (var list2 in lst.tempListado)
+                    Console.WriteLine(list2);
+            }
+
+            Console.WriteLine("----ZIP --- \r\n");
+
+            string[] helados = { "chocolate", "vainilla", "fresa", "limon" };
+
+            IEnumerable<string> r12 = postres.Zip(helados, (p, h) => p + " con helado de " + h);
+
+            foreach (string n in r12)
+                Console.WriteLine(n);
+
+
+            Console.WriteLine("------------Ordenamiento------\r\n");
+
+            IEnumerable<int> numOrder = numeros.OrderBy(n => n);
+            IEnumerable<int> numDes = numeros.OrderByDescending(n => n);
+
+            foreach (int n in numOrder)
+                Console.WriteLine(n);
+
+            Console.WriteLine("--------------------");
+
+            foreach (int n in numDes)
+                Console.WriteLine(n);
+
+            Console.WriteLine("--------------------");
+
+            string[] palabras = { "hola", "piedra", "pasto", "pastel", "carros", "auto" };
+
+            IEnumerable<string> palabrasOrd = palabras.OrderBy(p => p.Length).ThenBy(p => p);
+
+            foreach(string n in palabrasOrd)
+            {
+                Console.WriteLine(n);
+            }
         }
     }
 }
