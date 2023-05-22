@@ -139,7 +139,7 @@ namespace Proyecto12
              */
 
             var listado = from e in estudiantes
-                          join c in cursos on e.Id equals c.Id
+                          join c in cursos on e.Id equals c.Id 
                           select e.Nombre + " esta en el curso " + c.Curso;
 
 
