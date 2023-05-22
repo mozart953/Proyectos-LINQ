@@ -196,6 +196,45 @@ namespace Proyecto12
             {
                 Console.WriteLine(n);
             }
+
+            //Console.WriteLine("-----Agrupamiento ---\r\n");
+
+            //string[] archivos = System.IO.Directory.GetFiles("c:\\Linter");
+
+            //Console.WriteLine("Archivos obtenidos por GetFiles");
+
+            //foreach (string n in archivos)
+            //{
+            //    Console.WriteLine(n);
+            //}
+
+            //var archivoAg = archivos.GroupBy(a => System.IO.Path.GetExtension(a));
+
+            //Console.WriteLine("Resultados agrupados");
+
+            //foreach (IGrouping<string, string> g in archivoAg)
+            //{
+            //    Console.WriteLine("Archivos de extension {0}", g.Key);
+            //    foreach (string e in g)
+            //        Console.WriteLine("\t {0}", e);
+            //}
+
+            Console.WriteLine("----De elemento ----\r\n");
+
+            int primero = numeros.First();
+            Console.WriteLine(primero);
+
+            int primeroc = numeros.First(n => n % 2 == 0);
+            Console.WriteLine(primero);
+
+            int primerod = numeros.FirstOrDefault(n => n % 57 == 0);
+            Console.WriteLine(primerod);
+
+
+
+
+
+
         }
     }
 }
