@@ -230,6 +230,49 @@ namespace Proyecto12
             int primerod = numeros.FirstOrDefault(n => n % 57 == 0);
             Console.WriteLine(primerod);
 
+            Console.WriteLine("----De agregacion ----\r\n");
+
+            int sumatoria = numeros.Sum();
+            Console.WriteLine(sumatoria);
+
+            int[] numeros2 = { 1, 2, 3, 4, 5 };
+
+            int agregado = numeros2.Aggregate(0, (t, n) => t + (n * 2));
+
+            Console.WriteLine(agregado);
+
+
+            Console.WriteLine("----Cuantificadores----\r\n");
+
+            bool todos = numeros2.All(n => n < 10);
+            Console.WriteLine(todos);
+
+            bool iguales = numeros2.SequenceEqual(numeros);
+            Console.WriteLine(iguales);
+
+            //Generacion
+            Console.WriteLine("------Generacion----\r\n");
+
+            var vacia = Enumerable.Empty<int>();
+
+            foreach (int n in vacia)
+                Console.WriteLine(n);
+
+            Console.WriteLine("----------------");
+
+            var repetir = Enumerable.Repeat("hola ", 5);
+
+            foreach (string n in repetir)
+                Console.WriteLine(n);
+
+            var rango = Enumerable.Range(5, 15);
+
+            foreach (int n in rango)
+                Console.WriteLine(n);
+
+
+
+
 
 
 
