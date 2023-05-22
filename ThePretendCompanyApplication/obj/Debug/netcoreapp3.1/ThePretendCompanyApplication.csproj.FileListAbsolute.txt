@@ -1,0 +1,5 @@
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\ThePretendCompanyApplication\obj\Debug\netcoreapp3.1\ThePretendCompanyApplication.csproj.AssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\ThePretendCompanyApplication\obj\Debug\netcoreapp3.1\ThePretendCompanyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\ThePretendCompanyApplication\obj\Debug\netcoreapp3.1\ThePretendCompanyApplication.AssemblyInfoInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\ThePretendCompanyApplication\obj\Debug\netcoreapp3.1\ThePretendCompanyApplication.AssemblyInfo.cs
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\ThePretendCompanyApplication\obj\Debug\netcoreapp3.1\ThePretendCompanyApplication.csproj.CoreCompileInputs.cache

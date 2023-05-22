@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TCPData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TCPData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPData.dll": {}
+        }
+      },
+      "TCPExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPData/1.0.0": {
+      "type": "project",
+      "path": "TCPData/TCPData.csproj",
+      "msbuildProject": "TCPData/TCPData.csproj"
+    },
+    "TCPExtensions/1.0.0": {
+      "type": "project",
+      "path": "../TCPExtensions/TCPExtensions.csproj",
+      "msbuildProject": "../TCPExtensions/TCPExtensions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TCPData >= 1.0.0",
+      "TCPExtensions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wilson Pop\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\ThePretendCompanyApplication\\ThePretendCompanyApplication.csproj",
+      "projectName": "ThePretendCompanyApplication",
+      "projectPath": "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\ThePretendCompanyApplication\\ThePretendCompanyApplication.csproj",
+      "packagesPath": "C:\\Users\\Wilson Pop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\ThePretendCompanyApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Wilson Pop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\TCPExtensions\\TCPExtensions.csproj": {
+              "projectPath": "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\TCPExtensions\\TCPExtensions.csproj"
+            },
+            "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\ThePretendCompanyApplication\\TCPData\\TCPData.csproj": {
+              "projectPath": "C:\\Users\\Wilson Pop\\Documents\\Visual Studio 2019\\Projects\\ThePretendCompanyApplication\\TCPData\\TCPData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
